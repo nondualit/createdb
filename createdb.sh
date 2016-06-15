@@ -1,4 +1,5 @@
 #!/bin/bash
+# By Anibal OJeda
 # create databases script by Anibal v2
 # without asking mysql passwd, passwd is stored in my.cnf
 echo -n "Enter dbname: "
