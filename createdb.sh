@@ -1,7 +1,10 @@
 #!/bin/bash
-# By Anibal OJeda
-# create databases script by Anibal v2
-# without asking mysql passwd, passwd is stored in my.cnf
+################################################################################
+# Author    : Anibal Ojeda
+# Version   : 1.0
+# Date      : 15-06-2016
+# Description: Create databases without asking mysql passwd, passwd is stored in my.cnf
+################################################################################
 echo -n "Enter dbname: "
 read var1
 echo -n "Enter user: "
