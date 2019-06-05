@@ -1,4 +1,3 @@
 # createdb.sh
-This is a test README file for the createdb.sh script
-Working on it
-
+Soon porting to mysql8
+and adding dropdb2 funtion to it
